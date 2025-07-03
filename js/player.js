@@ -459,7 +459,7 @@ function initPlayer(videoUrl) {
         fullscreen: true,
         fullscreenWeb: true,
         subtitleOffset: false,
-        miniProgressBar: true,
+        miniProgressBar: false,
         mutex: true,
         backdrop: true,
         playsInline: true,
